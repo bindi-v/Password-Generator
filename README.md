@@ -1,8 +1,12 @@
 # Password-Generator
 
-# Task
+## Task
 
 We need to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
+
+## Description
+
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 It generate random password with 8 to 128 characters long.
 
@@ -36,9 +40,28 @@ The following image shows the web application's appearance and functionality:
 
 ![The Password Generator application displays a red button to "Generate Password".](03-javascript-homework-demo.png)
 
+## License
 
-* The URL of the deployed application 
-https://bindi-v.github.io/Password-Generator/
+This project is licensed under
+ 
+[MIT](https://opensource.org/licenses/MIT)
 
-* The URL of the GitHub repository
-https://github.com/bindi-v/Password-Generator
+For more about the license, check the above link.
+
+## Contact
+
+* GitHub : [bindi-v](https://github.com/bindi-v)
+
+* Email : bindi.vaghela@gmail.com
+    
+## Questions
+
+If you have any questions, please reach out to my Github.
+
+### Deployed Link
+
+* [The URL of the deployed application](https://bindi-v.github.io/Password-Generator/)
+
+* [The URL of the GitHub repository](https://github.com/bindi-v/Password-Generator)
+
+#### Thank you for visiting my Github!
